@@ -244,6 +244,9 @@ footer .info {
 }
 
 @media (max-width: 767px) {
+  .main {
+    margin-top: 120px;
+  }
   .main .hero {
     margin: 70px 0;
     text-align: center;
